@@ -1,0 +1,58 @@
+.container {
+  position: relative;
+}
+
+.nadpis {
+  position: absolute;
+  bottom: 40px;
+  left: 200px;
+ }
+
+p{
+  font-weight: 900;
+  font-size: 20px;
+  margin: 0;  
+}
+
+h1{
+  margin: 0;
+  font-size: 40px;
+}
+
+.mainpage{
+  text-align: block;
+  margin-left: 200px;
+  margin-right: 200px;
+  margin-top: 40px;
+  font-family: 'Abril Fatface', cursive;
+  color: grey;
+}
+
+#startoftext{
+  color: black;
+}
+
+.behavior {
+  margin-left: 20px;
+  margin-top: 20px;
+}
+
+.footer{
+  background: grey ;
+  margin-top: 40px;
+  margin-left: 180px;
+  margin-right: 180px;
+  height: 70px;
+}
+
+#subscribe{
+  font-family: Josefin Sans;
+  font-size: 30px;
+  font-weight: 900;
+  color: white;
+}
+
+#together{
+  padding-top: 20px;
+   text-align: center;
+  }
